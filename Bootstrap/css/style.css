@@ -1,0 +1,37 @@
+.bg1{
+    background-color: #f2ffe6;
+}
+.font-c1{
+    color: #00e6ac;
+}
+.btn-c1{
+    background-color:  #00cc66;
+     
+}
+.W1{
+    width: 100PX;
+}
+.bg2{
+    background-color: #e6fff2;
+}
+.none{
+    border: none;
+}
+.w3{
+    width: 30px;
+}
+.w4{
+    width: 140px;
+}
+body{
+     font-weight: 600;
+}
+.bg-footer{
+    background-color: #00001a;
+    color: white;
+}
+.hov:hover{
+    box-shadow:5px 5px 10px;
+    background-color: white;
+}
+ 
